@@ -3,8 +3,8 @@ title: 《亦来云CR委员节点全权托管服务协议》
 date: '2022-06-10'
 tags: ['hello']
 draft: false
-summary:
-images: []
+summary:亦来云 CR委员节点全权托管服务是向已当选的亦来云CR委员，提供委员节点的云服务租赁、节点搭建、日常升级及运维管理等系列工作的一站式专项服务。
+images: [https://www.cyberrepublic.org/static/media/cr-main.bc91a565.png]
 ---
 
 ## 《亦来云CR委员节点全权托管服务协议》
